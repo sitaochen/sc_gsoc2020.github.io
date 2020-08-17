@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## GSoC 2020 Project Summary
 
-You can use the [editor on GitHub](https://github.com/sitaochen/sc_gsoc2020.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Finish the package candidate workflow for Hackage.
+Improved UI and candidate workflow for Hackage.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Things that done
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Convert candidate page to use templating engine and delete candiates when published](https://github.com/haskell/hackage-server/pull/885)
+- [Added publish button on candidate page and show a link to the candidate packages available from the main package](https://github.com/haskell/hackage-server/commit/3f2c30ce5614406965994942f5c63d6305870ae4)
+- [Added candidate link on user page](https://github.com/haskell/hackage-server/commit/3f2c30ce5614406965994942f5c63d6305870ae4)
+- [Added delete all candidate button on candidates page](https://github.com/haskell/hackage-server/commit/6c327990296dcdfc200b42bf88ed49908dfc1936)
 
 ```markdown
 Syntax highlighted code block
