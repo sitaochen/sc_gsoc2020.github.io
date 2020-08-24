@@ -11,4 +11,5 @@ Finish the package candidate workflow for Hackage and improved UI and candidate 
 - [Expose Web UI for packagae candidates documentation](https://github.com/haskell/hackage-server/commit/483aaf6316c5fa8db4d8ea5d7d086aefb45f7fd0)
 
 ### Ongoing
+- Relative links in candidate view use wrong base
 - Generate Package Candidates Index
