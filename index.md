@@ -1,6 +1,7 @@
 ## GSoC 2020 Project Summary
 
 Finish the package candidate workflow for Hackage and improved UI and candidate workflow for Hackage.
+[GSoC branch](https://github.com/haskell/hackage-server/compare/sc/gsoc20)
 
 ### Things that done
 
