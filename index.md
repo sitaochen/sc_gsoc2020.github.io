@@ -1,1 +1,1 @@
-- [GSoC 20202 Hackage](sitaochen.github.io/gsoc20.md)
+- [GSoC 20202 Hackage](sitaochen.github.io/gsoc20)
